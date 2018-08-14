@@ -1,0 +1,13 @@
+main{position: relative; z-index: 0; padding-top: 150px;}
+
+/* visual */
+.visual{width: 100%; height: 500px; background-color: red;}
+
+/* product with side-box */
+.product-with-box{width: 100%; height: 500px; background-color: blue;}
+
+/* full image link */
+.full-img{width: 100%; height: 500px; background-color: green;}
+
+/* story */
+.story{width: 100%; height: 500px; background-color: pink;}
